@@ -45,17 +45,15 @@ The tasks are divided into three main sections:
 ├── Rohit_Rajput_Clustering.ipynb   # Clustering Jupyter notebook
 
 ```
-##1) Setup Instructions :
+## 1) Setup Instructions :
 
 1. Clone this repository to your local machine using:
-
-
 git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
 
-##2) Install the required dependencies :
+## 2) Install the required dependencies :
 pip install -r requirements.txt
 
-##3) Run the Jupyter notebooks for each task to view the implementation and results.
+## 3) Run the Jupyter notebooks for each task to view the implementation and results.
 
 ## Dependencies
 - pandas
