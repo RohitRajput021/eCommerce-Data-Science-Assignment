@@ -48,10 +48,10 @@ The tasks are divided into three main sections:
 ## 1) Setup Instructions :
 
 1. Clone this repository to your local machine using:
-git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+    git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
 
 ## 2) Install the required dependencies :
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## 3) Run the Jupyter notebooks for each task to view the implementation and results.
 
