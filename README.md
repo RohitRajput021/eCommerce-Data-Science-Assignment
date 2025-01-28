@@ -44,12 +44,12 @@ The tasks are divided into three main sections:
 ├── Rohit_Rajput_Clustering.pdf     # Clustering report
 ├── Rohit_Rajput_Clustering.ipynb   # Clustering Jupyter notebook
 
-
+```
 ##1) Setup Instructions :
 
 1. Clone this repository to your local machine using:
 
-```bash
+
 git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
 
 ##2) Install the required dependencies :
@@ -58,11 +58,11 @@ pip install -r requirements.txt
 ##3) Run the Jupyter notebooks for each task to view the implementation and results.
 
 ## Dependencies
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 
 ## How to Run the Notebooks
 1. Open each Jupyter notebook (.ipynb) in your preferred environment (e.g., Jupyter Notebook, VS Code).
